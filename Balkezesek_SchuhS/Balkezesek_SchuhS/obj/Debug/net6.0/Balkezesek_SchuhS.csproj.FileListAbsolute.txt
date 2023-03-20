@@ -1,0 +1,15 @@
+C:\Users\schuhs\Documents\C#gyak\Balkezesek_SchuhS\Balkezesek_SchuhS\bin\Debug\net6.0\Balkezesek_SchuhS.exe
+C:\Users\schuhs\Documents\C#gyak\Balkezesek_SchuhS\Balkezesek_SchuhS\bin\Debug\net6.0\Balkezesek_SchuhS.deps.json
+C:\Users\schuhs\Documents\C#gyak\Balkezesek_SchuhS\Balkezesek_SchuhS\bin\Debug\net6.0\Balkezesek_SchuhS.runtimeconfig.json
+C:\Users\schuhs\Documents\C#gyak\Balkezesek_SchuhS\Balkezesek_SchuhS\bin\Debug\net6.0\Balkezesek_SchuhS.dll
+C:\Users\schuhs\Documents\C#gyak\Balkezesek_SchuhS\Balkezesek_SchuhS\bin\Debug\net6.0\Balkezesek_SchuhS.pdb
+C:\Users\schuhs\Documents\C#gyak\Balkezesek_SchuhS\Balkezesek_SchuhS\obj\Debug\net6.0\Balkezesek_SchuhS.csproj.AssemblyReference.cache
+C:\Users\schuhs\Documents\C#gyak\Balkezesek_SchuhS\Balkezesek_SchuhS\obj\Debug\net6.0\Balkezesek_SchuhS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schuhs\Documents\C#gyak\Balkezesek_SchuhS\Balkezesek_SchuhS\obj\Debug\net6.0\Balkezesek_SchuhS.AssemblyInfoInputs.cache
+C:\Users\schuhs\Documents\C#gyak\Balkezesek_SchuhS\Balkezesek_SchuhS\obj\Debug\net6.0\Balkezesek_SchuhS.AssemblyInfo.cs
+C:\Users\schuhs\Documents\C#gyak\Balkezesek_SchuhS\Balkezesek_SchuhS\obj\Debug\net6.0\Balkezesek_SchuhS.csproj.CoreCompileInputs.cache
+C:\Users\schuhs\Documents\C#gyak\Balkezesek_SchuhS\Balkezesek_SchuhS\obj\Debug\net6.0\Balkezesek_SchuhS.dll
+C:\Users\schuhs\Documents\C#gyak\Balkezesek_SchuhS\Balkezesek_SchuhS\obj\Debug\net6.0\refint\Balkezesek_SchuhS.dll
+C:\Users\schuhs\Documents\C#gyak\Balkezesek_SchuhS\Balkezesek_SchuhS\obj\Debug\net6.0\Balkezesek_SchuhS.pdb
+C:\Users\schuhs\Documents\C#gyak\Balkezesek_SchuhS\Balkezesek_SchuhS\obj\Debug\net6.0\Balkezesek_SchuhS.genruntimeconfig.cache
+C:\Users\schuhs\Documents\C#gyak\Balkezesek_SchuhS\Balkezesek_SchuhS\obj\Debug\net6.0\ref\Balkezesek_SchuhS.dll

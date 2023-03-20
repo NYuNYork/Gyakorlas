@@ -1,0 +1,15 @@
+C:\Users\schuhs\Documents\C#\Csokiautomata_SchuhS\Csokiautomata_SchuhS\bin\Debug\net6.0\Csokiautomata_SchuhS.exe
+C:\Users\schuhs\Documents\C#\Csokiautomata_SchuhS\Csokiautomata_SchuhS\bin\Debug\net6.0\Csokiautomata_SchuhS.deps.json
+C:\Users\schuhs\Documents\C#\Csokiautomata_SchuhS\Csokiautomata_SchuhS\bin\Debug\net6.0\Csokiautomata_SchuhS.runtimeconfig.json
+C:\Users\schuhs\Documents\C#\Csokiautomata_SchuhS\Csokiautomata_SchuhS\bin\Debug\net6.0\Csokiautomata_SchuhS.dll
+C:\Users\schuhs\Documents\C#\Csokiautomata_SchuhS\Csokiautomata_SchuhS\bin\Debug\net6.0\Csokiautomata_SchuhS.pdb
+C:\Users\schuhs\Documents\C#\Csokiautomata_SchuhS\Csokiautomata_SchuhS\obj\Debug\net6.0\Csokiautomata_SchuhS.csproj.AssemblyReference.cache
+C:\Users\schuhs\Documents\C#\Csokiautomata_SchuhS\Csokiautomata_SchuhS\obj\Debug\net6.0\Csokiautomata_SchuhS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schuhs\Documents\C#\Csokiautomata_SchuhS\Csokiautomata_SchuhS\obj\Debug\net6.0\Csokiautomata_SchuhS.AssemblyInfoInputs.cache
+C:\Users\schuhs\Documents\C#\Csokiautomata_SchuhS\Csokiautomata_SchuhS\obj\Debug\net6.0\Csokiautomata_SchuhS.AssemblyInfo.cs
+C:\Users\schuhs\Documents\C#\Csokiautomata_SchuhS\Csokiautomata_SchuhS\obj\Debug\net6.0\Csokiautomata_SchuhS.csproj.CoreCompileInputs.cache
+C:\Users\schuhs\Documents\C#\Csokiautomata_SchuhS\Csokiautomata_SchuhS\obj\Debug\net6.0\Csokiautomata_SchuhS.dll
+C:\Users\schuhs\Documents\C#\Csokiautomata_SchuhS\Csokiautomata_SchuhS\obj\Debug\net6.0\refint\Csokiautomata_SchuhS.dll
+C:\Users\schuhs\Documents\C#\Csokiautomata_SchuhS\Csokiautomata_SchuhS\obj\Debug\net6.0\Csokiautomata_SchuhS.pdb
+C:\Users\schuhs\Documents\C#\Csokiautomata_SchuhS\Csokiautomata_SchuhS\obj\Debug\net6.0\Csokiautomata_SchuhS.genruntimeconfig.cache
+C:\Users\schuhs\Documents\C#\Csokiautomata_SchuhS\Csokiautomata_SchuhS\obj\Debug\net6.0\ref\Csokiautomata_SchuhS.dll
